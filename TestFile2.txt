@@ -1,1 +1,3 @@
 added test file 2 on internet
+
+Test commit using VIM command
