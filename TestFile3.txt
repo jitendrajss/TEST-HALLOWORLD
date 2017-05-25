@@ -1,4 +1,0 @@
-"Checking 3rd file" 
-"Adding a new line" 
-"Adding a new line again" 
-"Testing Stash command" 
