@@ -5,7 +5,7 @@ Test commit using VIM command
 Merge conflict creation
 =======
 
-
+Jitendra
 
 Hello There!
 >>>>>>> feature1
