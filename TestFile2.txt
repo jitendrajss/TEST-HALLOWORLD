@@ -9,3 +9,5 @@ Jitendra
 
 Hello There!
 >>>>>>> feature1
+
+added a new line
