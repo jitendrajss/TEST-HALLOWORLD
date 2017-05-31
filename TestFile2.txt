@@ -11,3 +11,6 @@ Hello There!
 >>>>>>> feature1
 
 added a new line
+
+New line again
+"Added for testing" 
